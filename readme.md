@@ -33,7 +33,7 @@ There still a bit of manual work so bare with me:
 Go to Github the repository you are interested in then repeat the following steps in order to get all the urls 
 from the watch, star and fork pages:
 
-
+![How to get the links](how-to.gif)
 Here is the script used for generating the file:
 ```
 var urls = [];
