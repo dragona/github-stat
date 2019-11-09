@@ -34,6 +34,7 @@ Go to Github the repository you are interested in then repeat the following step
 from the watch, star and fork pages:
 
 ![How to get the links](how-to.gif)
+
 Here is the script used for generating the file:
 ```
 var urls = [];
